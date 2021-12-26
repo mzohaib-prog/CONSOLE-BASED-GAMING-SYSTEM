@@ -3,10 +3,16 @@
 * Name    : Muhammad Zohaib
 * Reg#    : FA20-BSE-051
 * Section : B
-* email   : codezpatch@gmail.com, fa20-bse-051@cuilahore.edu.pk
+* email   : fa20-bse-051@cuilahore.edu.pk
 * COMSATS UNIVERSITY ISLAMABAD, LAHORE CAMPUS
 *Its a university project created for DSA class.
 *
+*/
+/*************************how to play***********************/
+/*
+	for paint, use arrows to draw, and see above label to see tools, such as c for colors and n for new page etc
+	for space game, use arraws to move ship and spacebar to shoot bullets.
+	for connect 4 game, use corresponding number buttons to select a stack.
 */
 //Date modified : DEC 24, 2021 10:45 pm
 
