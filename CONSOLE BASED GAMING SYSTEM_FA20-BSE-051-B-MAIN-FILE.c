@@ -3,7 +3,7 @@
 * Name    : Muhammad Zohaib
 * Reg#    : FA20-BSE-051
 * Section : B
-* email   : codezpatch@gmail.com
+* email   : codezpatch@gmail.com, fa20-bse-051@cuilahore.edu.pk
 * COMSATS UNIVERSITY ISLAMABAD, LAHORE CAMPUS
 *Its a university project created for DSA class.
 *
